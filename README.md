@@ -1,10 +1,10 @@
 MovieNow Business Intelligence Analysis
 SQL-Driven Decision Making for Online Movie Rental Platform
 
-🎬 Project Overview
+🎬 Project Overview:
 This project demonstrates comprehensive business intelligence analysis for MovieNow, a fictional online movie rental platform. Using PostgreSQL, I analyzed customer behavior, revenue patterns, movie preferences, and operational KPIs to support data-driven decision making.
 
-📊 Business Context
+📊 Business Context:
 MovieNow is an online streaming platform where customers can rent movies for 24-hour periods. The company needs insights to:
 
 Optimize movie catalog and pricing strategies
