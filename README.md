@@ -61,7 +61,7 @@ _Revenue Insights._
 Country-specific KPIs: Identified top-performing markets for strategic focus
 Genre profitability: Determined which movie categories drive highest revenue
 
-_Customer Behavior. _
+_Customer Behavior._
 
 High-value customers: Identified customers with 10+ rentals for retention programs
 Satisfaction segments: Found customers with ratings below 4 for targeted improvement
