@@ -130,13 +130,4 @@ WHERE r.date_renting >= '2018-01-01'
 GROUP BY CUBE (c.country, m.genre, EXTRACT(YEAR FROM r.date_renting))
 ORDER BY year NULLS LAST, c.country NULLS LAST, m.genre NULLS LAST;
 
--- ================================================================
--- 6. GENRE PERFORMANCE DEEP DIVE
--- ================================================================
 
--- Genre analysis with quality filters for reliable insights
-SELECT 
-    genre,
-    AVG(rating) AS avg_rating,
-    COUNT(rating) AS n_rating,
-    COUNT
